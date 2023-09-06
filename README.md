@@ -2,3 +2,5 @@
 Just for fun
 
 Just init
+
+Локаль IDE
